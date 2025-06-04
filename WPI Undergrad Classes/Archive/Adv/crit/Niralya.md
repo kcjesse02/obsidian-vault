@@ -1,0 +1,9 @@
+Niralya,
+
+I love the central imagery of the snake/dragon creature that comes from. It is so beautiful on the page and makes thematic sense. It seems to embody a turning point for the protagonist, where they find the strength to leave their unfortunate situation, and then they return once more to give the narrator the strength to forgive their father. The image of a serpent is also reminiscent of the Ouroboros, which is representative of the fact that your story is structured around this return, both for the narrator and the serpent.
+
+One thing that struck me about your story was the lack of scenes, especially in the section corresponding to the narrator's childhood. Even if this section is mainly for context, I think that the same information could be communicated and with greater emotional impact with a scene showing a situation that is just one instance of the problems they face with their childhood. maybe one that would be particularly memorable to the narrator. 
+
+I think a good candidate for this could be the scene where their mother tears up the picture the protagonist drew for their father. We don't really get to see anything directly from the mother, whose treatment it seems is a defining experience for the narrator. I would love for there to be a scene that contains an exchange between the narrator and their mother. This would also help the reader get a view into the dynamics in their family. This could also be a good way to introduce the small connection between the narrator and their father through those drives home late at night, and in what way their mother resents it.
+
+Overall, your story was an enjoyable read and has a lot of potential to become something really great! Good luck in revisions!

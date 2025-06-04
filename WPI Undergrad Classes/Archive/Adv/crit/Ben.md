@@ -1,0 +1,10 @@
+Hi Ben,
+I enjoyed reading your piece so much. Based on the context you provided, I think that it does a good job of achieving its goal.
+
+This piece creates such a compelling atmosphere. The pacing, voice, distinct characters, and an interesting ethical dilemma as the focal point all contribute to an atmosphere that reminds me of The Twilight Zone. The slow reveal of the truth of the situation is what stands out the most, with a crashing ending that shows us that Pollimon has learned their lesson, that the character has responded to this force, and opted to change.
+
+However, right now I think your piece is in some uncanny valley between The Twilight Zone inspired-story and a more conventional piece that relies more of the craft conventions we discussed in class. I think a commitment to one of these voices (or another tone that I didn't consider) could make your piece feel more coherent. One thing that I think you could do if you desire to play up the Twilight Zone feeling is add more specific details about the setting. For example, what do the scientific devices look like? What shapes do they make? Maybe choose a few objects to act as focal points for the story. 
+
+If you want to move away from that feeling, I would rely less on dialogue. I would rely more on telling the story through the narrator's eyes. The dialogue felt unnatural at points, but in a way that could make sense if you were going for a campy sort of tone. You could use the narrators internal thoughts to better communicate these ideas. Take this line of dialogue from Pollimon on page 1: “'I don’t believe so, my head is reeling and I can’t seem to remember much of anything'”. Part of this, especially the part about Pollimon's internal state, can be communicated through thought, the narrator's way of talking directly to the reader.
+
+Overall, great job and I am excited to see where you take this! Good Luck on your MQP!

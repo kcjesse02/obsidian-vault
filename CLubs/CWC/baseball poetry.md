@@ -1,0 +1,3 @@
+- try to get an even amount of ages
+- make as fair as possible
+- take a picture of people judging the contest

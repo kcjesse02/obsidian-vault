@@ -1,0 +1,2 @@
+**Reincarnation**
+We stole sugar and bread crumbs from the nearby homestead(we lived in its driveway). That was until the youngest girl, curious, crushed me with her soft delicate fingers. Her eyes black holes as she held me up to her face. The queen would not recive my sugar. And then I opened my eyes.

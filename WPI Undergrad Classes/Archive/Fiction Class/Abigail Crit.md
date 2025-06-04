@@ -1,0 +1,7 @@
+Hi Abby,
+
+Your piece had strong dialogue, especially in the last scene. It is very subtle and reveals information in an effective and interesting way; so much is revealed without explicitly saying what is happening. It made that last scene my favorite in your story. I want to see that same subtleness in the arguement between Rose and their mother. It sounds like this argument is the buildup of a lot of animosity between Rose and their mother, so there are some things they won't explain so clearly.
+
+When I read through your piece, I noticed a lot of showing as opposed to telling. One way you could improve upon this is commit to images you try to cultivate. For example, when you are describing Rose's perception of their mother using monster imagery: "Her nails, normally neatly polished, were sharp points speckled with cracking, dark-red polish"(pg 2). This is a beautiful description. However, this is the only time we see this kind of image associated with the mother. We also see her associated with a Rose Garden and A diety who has fallen from grace. I found this confusing. I encourage you to take that imagery fiurther and choose a few, consistent images to spread throughout the piece, play the fantastical and blur the line between what could plausibly happen in reality and what couldn't! That is the beauty of fiction! 
+
+Overall, there were a lot of great elements to your story that I wish you ran further with. I am really excited to see where you take this and wish you the best in your revision!

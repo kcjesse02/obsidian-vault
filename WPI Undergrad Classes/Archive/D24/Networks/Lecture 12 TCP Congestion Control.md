@@ -1,0 +1,1 @@
+java -cp javase.jar:core.jar com.google.zxing.client.j2se.CommandLineRunner code123.4.5.1.png > QRresult123.4.5.1.txt

@@ -1,0 +1,1 @@
+She spotted a strange entity in the refuse that dotted the roadside on her way home from work. It was the right size to fill both cupped hands. Too pristine to be a rock, its shape provoked the thought of an eggThe egg was a pale grey. It didn't look organic. It had a dull, robotic shine under the streetlamp.

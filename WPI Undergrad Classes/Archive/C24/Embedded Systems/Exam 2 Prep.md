@@ -1,0 +1,14 @@
+- Write down formulas FSR, Resolution, and DR (in bits and db) 
+	- $DR = 20log(2^k)$,  $DR_{db} = 20log_{10}(2^k)$
+	- $FSR = v^{+}-v^-$
+	- $RES = \frac {FSR} {2^k}$
+- Code value	$$floor[(\frac {vin - vref^{-}} {vref^{+}-vref^{-}})*(2^{k}-1)]$$
+- write down the timer tic to sec conversion for up, up-down, and continuous mode
+	- General Clock Period: $t_{clk}=\frac 1 {f_{clk}}$
+	- Up/counting-Mode: $t_{int} = (max\_count+1)*t_{clk}$
+		- 
+	- Continuous Mode: $t_{int} = (t_{clk} *2)$
+	- Up-down/full scale mode: $t_{int} = (max\_count *2)*t_{clk}$
+- Leap Counts
+	- Error: $$ideal\_time = [(x_{int}*ideal\_time) - (x_{int}*real\_time)]$$
+	- 

@@ -1,0 +1,4 @@
+- Haunted House Story
+	- Gov investigator is going to visit for inspection
+	- "There is a thin line between powerful magic and delusion"
+	- No one knows what causes the precence of magic.

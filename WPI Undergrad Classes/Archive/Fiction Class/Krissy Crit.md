@@ -1,0 +1,7 @@
+Hi Krissy,
+
+Your whole story has this amazing sense of mystery! The opening was fantastic. You started right in the middle of a strange scene, making the reader ask so many questions. You reveal little bits of information at a good pace, leading the reader to ask even more questions and thus stay engaged. I particularly like how you reveal information through dialogue, such as this phrase from the girl with the headscarf: "'It doesn’t work for ten seconds after you get shot. They said that at the beginning.'"(pg 2).
+
+However, Many of the characters feel based on tropes rather than unique characters. For example, Thomas is described as a typical nerdy kid and we only really see him as that, which makes him feel rather flat, like a paper cutout more than a character: "The nerdy one. Thick-lensed glasses magnified his green eyes until they appeared buggish."(pg 7). I think this is something that can happen when you include a lot of characters in a short story, since you don't have time to flesh them all out. This would probably work if you had enough time to challenge the main character's initial perceptions, but it feels distracting in such a short period of time.
+
+I really liked the ending. It completely changed the context around the previous events in the story and it made me want to read more! I'm excited to see the finished product!

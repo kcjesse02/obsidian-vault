@@ -1,0 +1,15 @@
+john Frahm jrfrahm@wpi.edu
+Daniel Lang dhlang@wpi.edu
+David Barber dwbarber@wpi.edu
+Jackson Uttecht juttecht@wpi.edu
+Ben Kharfen bakharfen@wpi.edu
+Aidan Henbest ajhenbest@wpi.edu
+Daniel Gorbunov dgorbunov@wpi.edu
+christy lam clam13@wpi.edu
+Max Jeronimo mtjeronimo@wpi.edu
+Cam Wilding cwilding@wpi.edu
+Sam Ehlers stehlers@wpi.edu
+Daniel Bielat dbielat@wpi.edu
+Joseph Pisano jjpisano@wpi.edu
+Kaden Ly ktly@wpi.edu
+Kristen Thebeau kmthebeau@wpi.edu

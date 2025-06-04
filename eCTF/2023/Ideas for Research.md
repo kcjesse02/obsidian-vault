@@ -1,0 +1,3 @@
+- Curriculum for eCTF preparation
+- some tool for oscilliscope/logic analyzer
+- 

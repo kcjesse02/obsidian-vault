@@ -1,0 +1,7 @@
+
+Hi Grace,
+Your story was so engaging and interesting. It covered a subject that must have been difficult to write about and I commend you for choosing to share this with us, because the product is amazing. The language you choose to describe the main character's feelings is so vivid and really drew me in. I would guess that you write a lot of poetry from your writing style. I found this line on page 3 to be particularly vivid: "my chest grows tight, a force stronger than gravity pulling my ribcage inwards to crush my heart and lungs" I thought the poem that the main character wrote on page two was a good way to inject some of that skill into this piece. 
+
+However, Since so much of the story takes place inside the main character's mind, the possibility for dialogue often seems avoided. Maybe try and add dialogue to some of the meory sequences, such as on the bottom of the third page where the main character recalls being so filled with depression as their friends talk about their plans for break that they can't focus. You could also expand on the main character's memories of their father, and show a flashback scene between them. Although, the introspective route you took works well. Maybe you can have the main character imagine a fake conversation between them and their father, showing what they want to say to him.
+
+Overall, your piece was very well crafted. Thank you for sharing!

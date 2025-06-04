@@ -1,0 +1,8 @@
+- [ ] Gen Key
+	- [ ] How is the key distributed to all boards?
+	- [ ] How do we generate random number at build time?
+	- [ ] 
+- [ ] Basic Authentication
+	- [ ] HMAC algorithm
+- [ ] Replay Attack Prevention
+	- [ ] Nonce

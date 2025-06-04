@@ -1,0 +1,7 @@
+Hi Marie,
+
+YOur concept is very interesting. When you introduced nigel as an 'ex-cryptozoologist', I was immediately intrigued. I was not disappointed by this character in your story either. There seems to be this tension between his past as a cyptozoologist and his normal present fueled by a desire to be viewed as normal by those around him. We see this in the frequent questioning of his sanity throughout the story. I love how we see his curiousity win when he logs onto the "Jane's Cyptid Exhibition" website.
+
+However, there is a lot of summary in your story, especially at the beggining. I might start the story off by having Nigel see the headless man, and tell the reader about his past through his thoughts and actions upon seeing this anomaly. By showing his reaction to this event, you can decrease the summarization of his past. As stated, I found his past as a Cryptozoologist compelling, so I think adding some scenes where nigel is remembering past adventures could provide more opportunity to delve into his past by portraying specific incidents. I also think that this could provide more context around his relationship with his parents, and the job he was fired from.
+
+You have an incredible premise and I am excited for you to develop this further!

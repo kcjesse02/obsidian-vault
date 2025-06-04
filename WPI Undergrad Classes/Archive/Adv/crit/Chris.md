@@ -1,0 +1,9 @@
+Chris,
+
+First of all, I don't normally enjoy sports stories, but yours was so endearing.
+
+The strongest element of your story was the dialogue. You have a lot of characters in each scene at a time (with 3 or 4 in conversation), and you manage to give each character a unique voice and personality because of the naturally flowing and purposeful dialogue. I found it interesting where you choose to end it, on the group going to get pizza, with the conflict with Nina mostly unresolved. I think this is a microcosm of what I like about the whole piece. A lot of the time stories about specific things (including genres like spy stories and historical fiction in addition to sports stories) are too bogged down in the details of what they're trying to represent and don't tend to the emotional core of the story. The foundation of your piece is the relationships between characters.
+
+However, I would have liked more action out of this piece. We get some good action during the team's practice, which makes me all the more excited for that playoff game. I think one place where you could remedy this is by starting the story in the middle of that game directly before the playoffs. It would be a good way to show how the team interacts in their element: playing the game that they love. I would love to see how you characterize your characters without relying on their conversations. I think this would also give an opportunity to show the reader how talented the main character is at basketball rather than telling them like you did through the opening interaction. Omitting the conversation at the beginning could also open up an interesting opportunity to introduce the conflict with Nina during the confrontation, which could create some intrigue for the reader. I think it could work to have Nina appear in a scene before providing context as to her and the main character's history and current situation
+
+Overall, good job and I hope your revisions go well!

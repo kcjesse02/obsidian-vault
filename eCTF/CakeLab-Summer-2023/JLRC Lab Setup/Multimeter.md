@@ -1,0 +1,4 @@
+- important for finding voltage sources in pieces of hardware
+- can measure voltage and current between nodes
+- can be used to trace continuity in a circuit
+- 

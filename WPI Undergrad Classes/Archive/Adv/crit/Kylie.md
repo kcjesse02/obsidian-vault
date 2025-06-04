@@ -1,0 +1,11 @@
+Kylie, 
+
+The opening of your piece drew me in instantly with its interesting sensory feel, the newspaper, the cat, the sheets, and of course, the hot tea. All of the readers senses were brightened. The way that you described the hot drink burning the narrator's mouth gave a nice symbolic introduction to Snake's conflict. It lends itself well to the structure too. This same focus on burning heat was brought back at the end of the story, where Snake's problems are brought to an end. You can also give a unique feel to the character's interactions. The dialogue was really captivating and attention-grabbing. It did a good job of introducing the dynamic between Snake and Man. 
+
+The naming strategy for your characters was also intriguing. especially with Snake, as the ending came and you described her skin as "molted and discolored", her name really started to make sense, and that in of itself felt like a payoff for the story.
+
+A lot of time is spent telling the reader directly about the main character's feelings about her predicament. While I understand the need to communicate this feeling of disillusionment, as it is the axis of the story, I think that it could be communicated in a subtler way that lets the audience get a portrait of the main character's mental state. I think, because of the lack of concrete thoughts and memories shown from Snake concerning her past, the reader doesn't understand of the extent of her pain, and the ending feels a tad sudden. I know you expressed the desire to keep the dynamic between Snake and Man ambiguous in your notes, but I would like to see some memories from Snake, maybe some flashback scenes, concerning events that led her to her outlook. I think you could do this in such a way where you avoid bringing up memories of Man, but if you haven't fleshed out other experiences that have shaped this character, I would consider including them. 
+
+You are so good at bringing in the senses into your writing, I would like to see memories surface for Snake as she experiences different things that may remind her of past events. This can also be an intense experience, which allows for even more juicy sensory description.
+
+Overall, great job! I am excited to see what choices you make in revision.

@@ -1,0 +1,7 @@
+Hi Sreeja,
+
+Your story was a joy to read. You have such a beautiful writing style. I found myself getting lost in your descriptions of things. I particularly found that you took great care to use specific, active verbs: "Years ago, holding such a hand might have troubled him, but, after enduring the war and several days of crawling through the tunnels from the battlefield together, Kirin eagerly hauled his brother-in-arms into the sun."(pg 1). This section has so many beautiful verbs. I also like the build-up to the point where the story turns, where Neil is killed. You reveal a great deal of Kirin and Neil's relationship before that turning point, which made me even more shocked and invested when the emotional turn occured. Not only did setting up their relationship work well for the structure of the story, that section itself was also had great dialogue, which made it very engaging. I liked the funny tone that this section had. The difference in tone between this section and after the ambush really shows how much control you have over the tone of your writing. It is really amazing!
+
+The main thing I would like to see for revision is more deapth given onto why things are occuring. There is obviously some sort of conflict going on if Kirin and Neil's village was destoryed. What is the nature of that conflict? Who was that woman who ambushed them affiliated with? I would love for you to dive into some of the political intrigue of this world.
+
+Your story was a very enjoyable read! I can't wait to see where you take it with revision.

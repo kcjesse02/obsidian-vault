@@ -1,0 +1,4 @@
+- [x] Reach out to Michalea Cluett (CC taylor so she knows its legit) (Ask her to include Freshmen)
+- [ ] Design Poster for Interviews and plaster that all over the fucking school
+- [x] Blurb for Naomi to send to her people
+- [ ] Follow Up with Aseel + Regina

@@ -1,0 +1,23 @@
+- What parts of Workday are we interested in?
+	- Student View
+		- Student Employees
+			- payment
+		- clubs: getting reimbursed through workday
+	- Professor View
+	- Bursar's View
+	- HR view
+		- what workday is designed to do
+	- 
+- What is Workday supposed to do in the first place?
+	- it seems like it covers a lot of functions
+	- Hiring Process Management
+		- Known to be a shitty field in general
+	- Payment management
+	- 
+- How does Workday utilize AI (they talk about it on their website)?
+- Workday for Higher Education Sales page
+	- https://www.workday.com/en-us/solutions/industries/education.html
+	- Hiring
+	- Student Information
+	- Finances
+- Answering the question of what 

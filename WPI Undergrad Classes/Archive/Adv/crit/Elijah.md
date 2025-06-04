@@ -1,0 +1,11 @@
+Elijah,
+
+I love the restraint you show in revealing information in this piece. You reveal information only as it is needed. In the first section, you mention the Flip and the Arrow. In the next section, however, you don't rush to provide us with all the context. We get a good idea of what the Arrow is, but The Flip is never fully defined throughout the story. This adds a nice sense of horror to the story (gaps the reader can fill with their own experiences of fear will always be the most scary). 
+
+You use this limited information to surprise the reader. For example, one of the concrete pieces of information you give the reader is that air travel is not used after the Flip, most likely because it is not safe. The second to last section begins with Corbett and his group on a ship. This is really attention grabbing and leaves the reader attentive to find out why they are on that ship.
+
+For revision I think it would be a good idea to scale down the scope of this piece. The plot you have here could be expanded into a whole novel. I think, because of this, some of your scenes feel flat. The dialogue feels a little heavy handed at times. I think you included most of the information about the world outside of the dialogue, which leaves your dialogue feeling a little unnatural and tedious.
+
+Corbett has a really defined character and purpose in your story, but I think that other characters often feel like cardboard cutouts placed simply to help move him along his path. I think giving some more thought as to what the lives of these supplementary characters could help improve the dialogue. It sounds like the Flip is a pretty significant event for everyone in your world. Consider how this event affects all of the characters you put on the page, what pain has this event caused them? It might also help to include a more limited set of characters so each one can be more finely crafted.
+
+Overall, this was such an interesting read! I hope revision goes well and that you consider expanding this story beyond the short story for this assignment!

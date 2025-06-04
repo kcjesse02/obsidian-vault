@@ -1,0 +1,4 @@
+- Things to learn
+	- Stack Canaries
+	- Configuration Options
+		- SSP-Buffersize
