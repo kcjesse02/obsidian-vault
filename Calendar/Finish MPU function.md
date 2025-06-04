@@ -1,4 +1,0 @@
-- [ ] enable MPU
-- [ ] disable MPU
-- [ ] configure mpu
-- [ ] 
