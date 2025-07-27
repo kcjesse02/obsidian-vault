@@ -1,0 +1,1 @@
+the flipper zero rust project has a cool template project to incorporate the crate in

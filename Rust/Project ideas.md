@@ -1,0 +1,6 @@
+- Flipperzero
+	- Logic Analyzer
+	- Signal Generator
+- Simple webserver (like the one from Networks)
+- AES implementation
+- 
