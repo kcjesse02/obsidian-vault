@@ -1,0 +1,1 @@
+- annotate the test func with `#[cfg(test)]`

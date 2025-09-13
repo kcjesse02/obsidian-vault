@@ -35,7 +35,7 @@ impl Rectangle {
 	- rust has automatic referencing and dereferencing. You can just use the `.` on any reference.
 	- automatic pointer handling is rare in rust so don't get used to it
 
->Given the receiver and name of a method, Rust can figure out definitively whether the method is reading (&self), mutating (&mut self), or consuming (self). The fact that Rust makes borrowing implicit for method receivers is a big part of making ownership ergonomic in practice.
+> Given the receiver and name of a method, Rust can figure out definitively whether the method is reading (&self), mutating (&mut self), or consuming (self). The fact that Rust makes borrowing implicit for method receivers is a big part of making ownership ergonomic in practice.   - [Rust book Chapter 5.3](https://doc.rust-lang.org/book/ch05-03-method-syntax.html#wheres-the---operator)
 
 
 How do we call these methods?
@@ -54,3 +54,37 @@ fn main() {
 ```
 - just obj.method() syntax bro
 
+**How can a method take another instance of the Self struct?**
+```Rust
+impl Rectangle {
+    fn area(&self) -> u32 {
+        self.width * self.height
+    }
+
+    fn can_hold(&self, other: &Rectangle) -> bool {
+        self.width > other.width && self.height > other.height
+    }
+}
+
+```
+- borrow another rectange since we don't need to modify it
+- don't use the self type
+
+### Associated Functions
+- all functions in an impl block
+- don't need a `self` argument
+	- associated funcs without the self are often constructors!
+```Rust
+//a constructor
+impl Rectangle {
+    fn square(size: u32) -> Self {
+        Self {
+            width: size,
+            height: size,
+        }
+    }
+}
+
+```
+
+- multiple impl blocks for the same object are valid syntax

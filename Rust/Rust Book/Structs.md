@@ -152,3 +152,14 @@ output
 ```
 
 zamn print statement debugging
+
+## Collection Fields in Structs
+- if you have a field of known length, use an array
+```Rust
+struct elf{
+	magic: [u8; 4],
+	other: Vec<u8>
+}
+```
+- If you have a variable length data, use a `Vec<T>`.
+	- Of course, `Vec<T>` can only house a reference. don't use if you want a struct to store in a continuous portion of memory (ie if you are doing embedded stuff).
