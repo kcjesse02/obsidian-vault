@@ -3,4 +3,5 @@
 	- Signal Generator
 - Simple webserver (like the one from Networks)
 - AES implementation
-- 
+- elf parser
+- .csv parser
