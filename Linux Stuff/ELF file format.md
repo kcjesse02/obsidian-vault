@@ -23,3 +23,5 @@ Do you remember what Linking is you idiot?
 - Also provides more security, since external libraries can't be manipulated after its compiled
 - No need to a GOT, just calls the address directly
 	- also completely eliminates vulnerabilities associated with it. 
+
+
