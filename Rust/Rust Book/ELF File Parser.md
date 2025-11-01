@@ -1,4 +1,4 @@
-Focus on Static Binaries first
+From [[ELF File Parser]], Focus on Static Binaries first
 - used in embedded
 - more application to work
 
@@ -13,3 +13,6 @@ the trait `From<std::io::Error>` is not implemented for `String`
 ```
 
 the opening file is defined in a function that returns a 
+
+### Some things for the future
+- Use a `BufferedReader` - adds buffering to reading a file to make it more efficient
