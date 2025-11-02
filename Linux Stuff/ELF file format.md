@@ -24,4 +24,15 @@ Do you remember what Linking is you idiot?
 - No need to a GOT, just calls the address directly
 	- also completely eliminates vulnerabilities associated with it. 
 
+## Questions about Static Binaries
+for [[ELF File Parser]]
+
+Where are the libraries stored?
+
+
+What about the actual code?
+
+Are the stored in separate, continuous sections of memory? Or mixed together. (ie a library function is pasted in where it is called?)
+
+### Static Binary Memory Map
 

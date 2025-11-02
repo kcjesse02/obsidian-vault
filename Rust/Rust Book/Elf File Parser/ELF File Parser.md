@@ -1,4 +1,4 @@
-From [[ELF File Parser]], Focus on Static Binaries first
+From [[ELF file format]], Focus on Static Binaries first
 - used in embedded
 - more application to work
 

@@ -1,0 +1,3 @@
+- [ ] Figure out the structure of a static binary
+- [ ] Read in Command Line Arguments
+- [ ] Add in support for dynamically linked binaries
